@@ -1,0 +1,72 @@
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+======================== RESTART: Z:\basic\todo_list.py ========================
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: market
+Task 'market' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: college
+Task 'college' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 2
+Enter the task: home
+Task 'home' added to your to-do list.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 1
+To-Do List:
+1. market (Not Done)
+2. college (Not Done)
+3. home (Not Done)
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+To-Do List:
+1. market (Not Done)
+2. college (Not Done)
+3. home (Not Done)
+Enter the task number to mark as completed: 1
+Task 1 marked as completed.
+
+Options:
+1. Display to-do list
+2. Add a task
+3. Mark a task as completed
+4. Remove a task
+5. Quit
+Enter your choice: 3
+To-Do List:
+1. market (Done)
+2. college (Not Done)
+3. home (Not Done)
